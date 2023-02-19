@@ -1,2 +1,0 @@
-# pythton
-basics of python
